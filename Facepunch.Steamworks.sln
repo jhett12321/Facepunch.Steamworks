@@ -5,9 +5,9 @@ VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Facepunch.Steamworks", "Facepunch.Steamworks\Facepunch.Steamworks.csproj", "{91962664-EB42-472A-94C8-C4FFEB44CC4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facepunch.Steamworks.Test", "Facepunch.Steamworks.Test\Facepunch.Steamworks.Test.csproj", "{3F6183AD-D966-44F2-A6EB-42E61E591B49}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facepunch.Steamworks.Test", "Facepunch.Steamworks.Test~\Facepunch.Steamworks.Test.csproj", "{3F6183AD-D966-44F2-A6EB-42E61E591B49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generator", "Generator\Generator.csproj", "{B7225D11-2AAA-49D6-AE93-A73696EA35FE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generator", "Generator~\Generator.csproj", "{B7225D11-2AAA-49D6-AE93-A73696EA35FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
